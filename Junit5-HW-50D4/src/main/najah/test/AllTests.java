@@ -8,7 +8,8 @@ import org.junit.platform.suite.api.Suite;
     CalculatorTest.class,
     ProductTest.class,
     UserServiceSimpleTest.class,
-    RecipeBookTest.class
+    RecipeBookTest.class,
+    RecipeTest.class
 })
 public class AllTests {
     // This class is empty and serves only as a marker for the JUnit 5 test suite
